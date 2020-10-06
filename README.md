@@ -1,4 +1,4 @@
 # expense-tracker
 # https://expense-managr.netlify.app/
 
-(https://github.com/hksahil/expense-tracker/blob/main/expense-manager.gif)
+![Working](https://github.com/hksahil/pivotchain-project-v1/blob/master/gif.gif)
